@@ -1,3 +1,8 @@
+/*
+Author: Karan Maniar
+Email ID: karan.maniar@hotmail.com
+*/
+
 #include "threads.h"
 
 void main()
